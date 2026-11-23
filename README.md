@@ -101,11 +101,25 @@ See the image at the top of this page.
 - **STAAD.Pro** (CONNECT Edition / 2023 or later) with OpenSTAAD Python support
 - Python 3.10 or later
 
-Install the Python packages:
+### Installation (step by step)
 
-```bash
-pip install -r requirements.txt
-```
+1. **Install Python 3.10 or later** from [python.org](https://www.python.org/downloads/). During setup, tick **"Add python.exe to PATH"**.
+2. **Download this repository**: click the green **Code** button → **Download ZIP**, then extract it (for example to `C:\Tools\Circular-Water-Tank-Design-_STAAD`).
+   Or, with Git: `git clone https://github.com/biswatoshpurkayastha/Circular-Water-Tank-Design-_STAAD.git`
+3. **Open PowerShell in that folder**: open the extracted folder in File Explorer, click the address bar, type `powershell` and press **Enter**.
+4. **Install the required Python libraries** (one time only):
+   ```bash
+   pip install -r requirements.txt
+   ```
+   If `pip` is not recognised, use `python -m pip install -r requirements.txt`.
+5. **Check the installation** (optional):
+   ```bash
+   python -c "import openstaadpy, PySide6, pyvista; print('All libraries installed')"
+   ```
+6. **Open STAAD.Pro** and then run the tool from the same PowerShell window:
+   ```bash
+   python STAAD_Tank_Wall_Explorer.py
+   ```
 
 ### Python libraries used
 
@@ -185,17 +199,18 @@ Standard library: `sys`, `math`, `traceback` and `collections`.
 
 ## 10. Video tutorial
 
-Watch the full walkthrough on the **TORQ | Simplifying Engineering** YouTube channel.
+Watch the full walkthrough on the **TORQ | Simplifying Engineering** YouTube channel:
 
-https://www.youtube.com/watch?v=eBvAhsCbz2s
+[![Watch the video](https://img.youtube.com/vi/At-iny_ectc/hqdefault.jpg)](https://www.youtube.com/watch?v=At-iny_ectc)
 
+▶️ **[Watch on YouTube](https://www.youtube.com/watch?v=At-iny_ectc)**
 
 ---
 
 ## Author
 
 **Biswatosh**, Bentley Systems
-YouTube channel: **TORQ | Simplifying Engineering**
+YouTube channel: **[TORQ | Simplifying Engineering](https://www.youtube.com/watch?v=At-iny_ectc)**
 
 ## License
 
