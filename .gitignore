@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.xlsx
+*_BMD*.png
+*_Cross_Section.png
+*.std
+*.anl
+*.bk?

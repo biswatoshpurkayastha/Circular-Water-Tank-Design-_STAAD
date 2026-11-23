@@ -1,0 +1,8 @@
+openstaadpy
+pywin32
+numpy
+matplotlib
+PySide6
+pyvista
+pyvistaqt
+openpyxl
