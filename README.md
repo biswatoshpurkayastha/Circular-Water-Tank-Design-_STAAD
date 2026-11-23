@@ -186,7 +186,9 @@ Standard library: `sys`, `math`, `traceback` and `collections`.
 ## 10. Video tutorial
 
 Watch the full walkthrough on the **TORQ | Simplifying Engineering** YouTube channel.
-<[!-- Add your video link here: https://youtu.be/... --](https://www.youtube.com/watch?v=eBvAhsCbz2s)>
+
+https://www.youtube.com/watch?v=eBvAhsCbz2s
+
 
 ---
 
