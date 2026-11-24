@@ -203,7 +203,9 @@ Watch the full walkthrough on the **TORQ | Simplifying Engineering** YouTube cha
 
 [![Watch the video](https://img.youtube.com/vi/At-iny_ectc/hqdefault.jpg)](https://www.youtube.com/watch?v=At-iny_ectc)
 
-▶️ **[Watch on YouTube](https://www.youtube.com/watch?v=At-iny_ectc)**
+https://www.youtube.com/watch?v=eBvAhsCbz2s
+
+▶️ **[Watch on YouTube]([https://www.youtube.com/watch?v=At-iny_ectc](https://www.youtube.com/watch?v=eBvAhsCbz2s))**
 
 ---
 
